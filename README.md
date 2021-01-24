@@ -10,10 +10,10 @@ Pour en savoir plus, vous pouvrz consulter mon [portfolio en ligne](https://jean
 
 ## <div align="center">Projets phares :sparkles:</div>
 
-![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)
-![Carte Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Pokemon)
-![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Projet_PILAF)
-![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Combava)
+[![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
+[![Carte Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Pokemon)](https://github.com/jeanlrnt/Pokemon)
+[![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Projet_PILAF)](https://github.com/jeanlrnt/Projet_PILAF)
+[![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Combava)](https://github.com/jeanlrnt/Combava)
 <br><br>
 
 ## <div align="center">Statistiques :bar_chart:</div>
