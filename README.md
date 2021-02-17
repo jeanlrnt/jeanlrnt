@@ -20,6 +20,8 @@ Pour en savoir plus, vous pouvrz consulter mon [portfolio en ligne](https://jean
 
 ![Les Stats GitHub de Jeanlrnt](https://github-readme-stats.vercel.app/api?username=jeanlrnt&hide=contribs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlrnt&layout=compact)
+  
+![Profile views](https://komarev.com/ghpvc/?username=jeanlrnt&color=blueviolet&label=Vues+du+profil)
 <br><br>
 
 ## <div align="center">Me contacter :phone:</div>
@@ -27,3 +29,5 @@ Pour en savoir plus, vous pouvrz consulter mon [portfolio en ligne](https://jean
 :ballot_box_with_check: Par email : [contact@jeanlaurent.fr](mailto:contact@jeanlaurent.fr)  
 :ballot_box_with_check: Sur Twitter : [jeaan_lrnt](https://twitter.com/jean_lrnt)  
 :ballot_box_with_check: Sur linkedin : [jeanlrnt](https://linkedin.com/in/jeanlrnt)  
+
+![](https://hit.yhype.me/github/profile?user_id=63308635)
