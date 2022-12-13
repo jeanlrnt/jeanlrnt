@@ -4,15 +4,15 @@
 
 ## <div align="center">A propos de jeanlrnt :loudspeaker:</div>  
 
-Je suis étudiant en deuxième et dernière année du DUT Informatique :computer:. J'ai pu réaliser quelques projets universitaires :books:, disponibles sur mon profil, mais aussi quelques projets plus personnels tel que mon portfolio en ligne :briefcase:. Le travail en équipe :family: est pour moi un point important dans la réussite d'un projet, c'est pourquoi vous pourrez retrouver sur ce dépot GitHub un certain nombre de projets réalisés en équipe.  
-Pour en savoir plus, vous pouvrz consulter mon [portfolio en ligne](https://jeanlaurent.fr) :earth_americas:
+Je suis diplômé de la licence professionnelle MIAW à La Rochelle :computer: et je suis à la recherche d'opportunités professionnelles pour la suite de mon parcours. J'ai pu réaliser quelques projets universitaires :books:, disponibles sur mon profil, mais aussi quelques projets plus personnels :briefcase:. Le travail en équipe :family: est pour moi un point important dans la réussite d'un projet, c'est pourquoi vous pourrez retrouver sur ce dépot GitHub un certain nombre de projets réalisés en équipe.  
+Pour en savoir plus, contactez moi sur cette adresse mail : [contact@jeanlaurent.fr](mailto:contact@jeanlaurent.fr) :earth_americas:
 <br><br>
 
 ## <div align="center">Projets phares :sparkles:</div>
 
 [![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
 [![Carte Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Pokemon)](https://github.com/jeanlrnt/Pokemon)
-[![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Projet_PILAF)](https://github.com/jeanlrnt/Projet_PILAF)
+[![Carte Projet_laravel cancellable](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=laravel-cancellable)](https://github.com/jeanlrnt/laravel-cancellable)
 [![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Combava)](https://github.com/jeanlrnt/Combava)
 <br><br>
 
