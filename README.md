@@ -1,4 +1,4 @@
-![logo JeanLaurent](http://repository.jeanlaurent.fr/logo.jpg)
+![logo JeanLaurent](https://github.com/jeanlrnt/jeanlrnt/blob/main/Banière.png)
 
 # <div align="center">Bienvenue sur mon profil GitHub ! 👋</div>
 
