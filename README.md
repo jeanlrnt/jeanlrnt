@@ -11,11 +11,9 @@ Pour en savoir plus, contactez moi sur cette adresse mail : [contact@jeanlaurent
 ## <div align="center">Projets phares :sparkles:</div>
 
 [![Carte Projet_laravel cancellable](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=laravel-cancellable)](https://github.com/jeanlrnt/laravel-cancellable)
-[![Carte StockManager](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=StockManager)](https://github.com/jeanlrnt/StockManager)
 [![Carte AppMeteo](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=AppMeteo)](https://github.com/jeanlrnt/AppMeteo)
 [![Carte starter-gulp](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=GradientGenerator)](https://github.com/jeanlrnt/GradientGenerator)
 [![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
-[![Carte Pokemon](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Pokemon)](https://github.com/jeanlrnt/Pokemon)
 
 <br><br>
 
