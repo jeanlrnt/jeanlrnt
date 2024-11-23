@@ -16,6 +16,7 @@ Pour en savoir plus, contactez moi sur cette adresse mail : [jeanz.laurent@gmail
 [![Carte GradientGenerator](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=GradientGenerator)](https://github.com/jeanlrnt/GradientGenerator)
 [![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
 
+Mes gists : [jeanlrnt](https://gist.github.com/jeanlrnt)
 <br><br>
 
 ## <div align="center">Statistiques :bar_chart:</div>
