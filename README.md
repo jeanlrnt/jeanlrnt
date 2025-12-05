@@ -10,19 +10,19 @@ Pour en savoir plus, contactez moi sur cette adresse mail : [jeanz.laurent@gmail
 
 ## <div align="center">Projets phares :sparkles:</div>
 
-[![Carte Projet_laravel cancellable](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=laravel-cancellable)](https://github.com/jeanlrnt/laravel-cancellable)
-[![Carte AppMeteo](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=AppMeteo)](https://github.com/jeanlrnt/AppMeteo)
-[![Carte Projet_MN90-FFESSM-vue](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=MN90-FFESSM-vue)](https://github.com/jeanlrnt/MN90-FFESSM-vue)
-[![Carte GradientGenerator](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=GradientGenerator)](https://github.com/jeanlrnt/GradientGenerator)
-[![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
+[![Carte Projet_laravel cancellable](https://gstats.buddies-dev.de/api/pin/?username=jeanlrnt&repo=laravel-cancellable)](https://github.com/jeanlrnt/laravel-cancellable)
+[![Carte AppMeteo](https://gstats.buddies-dev.de/api/pin/?username=jeanlrnt&repo=AppMeteo)](https://github.com/jeanlrnt/AppMeteo)
+[![Carte Projet_MN90-FFESSM-vue](https://gstats.buddies-dev.de/api/pin/?username=jeanlrnt&repo=MN90-FFESSM-vue)](https://github.com/jeanlrnt/MN90-FFESSM-vue)
+[![Carte GradientGenerator](https://gstats.buddies-dev.de/api/pin/?username=jeanlrnt&repo=GradientGenerator)](https://github.com/jeanlrnt/GradientGenerator)
+[![Carte Spaceinvaders](https://gstats.buddies-dev.de/api/pin/?username=jeanlrnt&repo=Spaceinvaders)](https://github.com/jeanlrnt/Spaceinvaders)
 
 Mes gists : [jeanlrnt](https://gist.github.com/jeanlrnt)
 <br><br>
 
 ## <div align="center">Statistiques :bar_chart:</div>
 
-![Les Stats GitHub de Jeanlrnt](https://github-readme-stats.vercel.app/api?username=jeanlrnt&hide=contribs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanlrnt&layout=compact)
+![Les Stats GitHub de Jeanlrnt](https://gstats.buddies-dev.de/api?username=jeanlrnt&hide=contribs&show_icons=true)
+![Top Langs](https://gstats.buddies-dev.de/api/top-langs/?username=jeanlrnt&layout=compact)
   
 ![Profile views](https://komarev.com/ghpvc/?username=jeanlrnt&color=blueviolet&label=Vues+du+profil)
 <br><br>
